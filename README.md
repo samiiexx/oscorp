@@ -13,7 +13,7 @@ Bootstrap test project for Oscorp.
 
 ## Install
 ```
-    $ git clone git@github.com:starboxtech/sam-oscorp.git main
+    $ git clone git@github.com:starboxtech/oscorp.git main
     $ cd main
 ```
 
